@@ -1,5 +1,7 @@
+/*
+Score: 100%
+*/
 import java.util.Arrays;
-// Score 100%
 class Solution {
     public int solution(int[] A) {
 		Arrays.sort(A);

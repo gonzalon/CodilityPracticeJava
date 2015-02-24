@@ -1,6 +1,7 @@
-// To understand the problem: http://www.lucainvernizzi.net/blog/2014/11/21/codility-beta-challenge-number-of-disc-intersections/
 /*
-Score 75
+Source:
+1- http://www.lucainvernizzi.net/blog/2014/11/21/codility-beta-challenge-number-of-disc-intersections/
+Score: 75%
 Errors:
 * overflow (arithmetic overflow tests) 	1.024 s 	WRONG ANSWER  - got 1 expected 2
 * big1 									>8.000 s 	TIMEOUT ERROR - running time: >8.00 sec., time limit: 2.74 sec.

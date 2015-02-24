@@ -1,5 +1,7 @@
+/*
+Score: 93%
+*/
 import java.util.Arrays;
-//Score 93%
 class Solution {
     public int solution(int[] A) {
 		int N = A.length;
